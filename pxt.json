@@ -1,20 +1,62 @@
 {
     "name": "ai-cosmic_coding_at_university",
-    "version": "0.0.0",
     "description": "",
+    "version": "1.0.3",
     "dependencies": {
         "core": "*",
         "builder": "*"
     },
     "files": [
         "README.md",
-        "main.blocks",
-        "main.ts"
+        "coding_at_university/starting_code.md",
+        "coding_at_university/task1.md",
+        "coding_at_university/task2.md",
+        "coding_at_university/task3.md",
+        "coding_at_university/task4.md",
+        "coding_at_university/task5.md",
+        "coding_at_university/task6.md",
+        "coding_at_university/task7.md",
+        "coding_at_university/tasklast.md",
+        "latvian/coding_at_university/starting_code.md",
+        "latvian/coding_at_university/task1.md",
+        "latvian/coding_at_university/task2.md",
+        "latvian/coding_at_university/task3.md",
+        "latvian/coding_at_university/task4.md",
+        "latvian/coding_at_university/task5.md",
+        "latvian/coding_at_university/task6.md",
+        "latvian/coding_at_university/task7.md",
+        "latvian/coding_at_university/tasklast.md",
+        "_locales/el/coding_at_university/starting_code.md",
+        "_locales/el/coding_at_university/task1.md",
+        "_locales/el/coding_at_university/task2.md",
+        "_locales/el/coding_at_university/task3.md",
+        "_locales/el/coding_at_university/task4.md",
+        "_locales/el/coding_at_university/task5.md",
+        "_locales/el/coding_at_university/task6.md",
+        "_locales/el/coding_at_university/task7.md",
+        "_locales/el/coding_at_university/tasklast.md",
+        "_locales/it/coding_at_university/starting_code.md",
+        "_locales/it/coding_at_university/task1.md",
+        "_locales/it/coding_at_university/task2.md",
+        "_locales/it/coding_at_university/task3.md",
+        "_locales/it/coding_at_university/task4.md",
+        "_locales/it/coding_at_university/task5.md",
+        "_locales/it/coding_at_university/task6.md",
+        "_locales/it/coding_at_university/task7.md",
+        "_locales/it/coding_at_university/tasklast.md",
+        "_locales/nl/coding_at_university/starting_code.md",
+        "_locales/nl/coding_at_university/task1.md",
+        "_locales/nl/coding_at_university/task2.md",
+        "_locales/nl/coding_at_university/task3.md",
+        "_locales/nl/coding_at_university/task4.md",
+        "_locales/nl/coding_at_university/task5.md",
+        "_locales/nl/coding_at_university/task6.md",
+        "_locales/nl/coding_at_university/task7.md",
+        "_locales/nl/coding_at_university/tasklast.md"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
     "targetVersions": {
         "target": "1.7.28",
         "targetId": "minecraft"
@@ -22,5 +64,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
